@@ -1,0 +1,1 @@
+bool[] value   # The value to write to the specified address
